@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-note-taker-app/static/css/main.cbe573b7.chunk.css",
-    "main.js": "/react-note-taker-app/static/js/main.2964518f.chunk.js",
-    "main.js.map": "/react-note-taker-app/static/js/main.2964518f.chunk.js.map",
+    "main.css": "/react-note-taker-app/static/css/main.7890dbf8.chunk.css",
+    "main.js": "/react-note-taker-app/static/js/main.da10181a.chunk.js",
+    "main.js.map": "/react-note-taker-app/static/js/main.da10181a.chunk.js.map",
     "runtime-main.js": "/react-note-taker-app/static/js/runtime-main.e1f5c4c3.js",
     "runtime-main.js.map": "/react-note-taker-app/static/js/runtime-main.e1f5c4c3.js.map",
     "static/js/2.3aa80256.chunk.js": "/react-note-taker-app/static/js/2.3aa80256.chunk.js",
     "static/js/2.3aa80256.chunk.js.map": "/react-note-taker-app/static/js/2.3aa80256.chunk.js.map",
     "index.html": "/react-note-taker-app/index.html",
-    "precache-manifest.f617c99b472ff819528568f05b663d06.js": "/react-note-taker-app/precache-manifest.f617c99b472ff819528568f05b663d06.js",
+    "precache-manifest.4d83156a0985ba3d772f61c41f0a7d00.js": "/react-note-taker-app/precache-manifest.4d83156a0985ba3d772f61c41f0a7d00.js",
     "service-worker.js": "/react-note-taker-app/service-worker.js",
-    "static/css/main.cbe573b7.chunk.css.map": "/react-note-taker-app/static/css/main.cbe573b7.chunk.css.map",
+    "static/css/main.7890dbf8.chunk.css.map": "/react-note-taker-app/static/css/main.7890dbf8.chunk.css.map",
     "static/js/2.3aa80256.chunk.js.LICENSE.txt": "/react-note-taker-app/static/js/2.3aa80256.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e1f5c4c3.js",
     "static/js/2.3aa80256.chunk.js",
-    "static/css/main.cbe573b7.chunk.css",
-    "static/js/main.2964518f.chunk.js"
+    "static/css/main.7890dbf8.chunk.css",
+    "static/js/main.da10181a.chunk.js"
   ]
 }
