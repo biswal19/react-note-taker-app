@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-note-taker-app/static/css/main.980e5e95.chunk.css",
-    "main.js": "/react-note-taker-app/static/js/main.acd0842d.chunk.js",
-    "main.js.map": "/react-note-taker-app/static/js/main.acd0842d.chunk.js.map",
+    "main.css": "/react-note-taker-app/static/css/main.fd3d85df.chunk.css",
+    "main.js": "/react-note-taker-app/static/js/main.c333b36e.chunk.js",
+    "main.js.map": "/react-note-taker-app/static/js/main.c333b36e.chunk.js.map",
     "runtime-main.js": "/react-note-taker-app/static/js/runtime-main.e1f5c4c3.js",
     "runtime-main.js.map": "/react-note-taker-app/static/js/runtime-main.e1f5c4c3.js.map",
-    "static/js/2.70c169b2.chunk.js": "/react-note-taker-app/static/js/2.70c169b2.chunk.js",
-    "static/js/2.70c169b2.chunk.js.map": "/react-note-taker-app/static/js/2.70c169b2.chunk.js.map",
+    "static/js/2.3aa80256.chunk.js": "/react-note-taker-app/static/js/2.3aa80256.chunk.js",
+    "static/js/2.3aa80256.chunk.js.map": "/react-note-taker-app/static/js/2.3aa80256.chunk.js.map",
     "index.html": "/react-note-taker-app/index.html",
-    "precache-manifest.76f46e5ada99124fea30375f06a3d7a6.js": "/react-note-taker-app/precache-manifest.76f46e5ada99124fea30375f06a3d7a6.js",
+    "precache-manifest.6680b45bf42858b44b4314ee373f0c56.js": "/react-note-taker-app/precache-manifest.6680b45bf42858b44b4314ee373f0c56.js",
     "service-worker.js": "/react-note-taker-app/service-worker.js",
-    "static/css/main.980e5e95.chunk.css.map": "/react-note-taker-app/static/css/main.980e5e95.chunk.css.map",
-    "static/js/2.70c169b2.chunk.js.LICENSE.txt": "/react-note-taker-app/static/js/2.70c169b2.chunk.js.LICENSE.txt"
+    "static/css/main.fd3d85df.chunk.css.map": "/react-note-taker-app/static/css/main.fd3d85df.chunk.css.map",
+    "static/js/2.3aa80256.chunk.js.LICENSE.txt": "/react-note-taker-app/static/js/2.3aa80256.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e1f5c4c3.js",
-    "static/js/2.70c169b2.chunk.js",
-    "static/css/main.980e5e95.chunk.css",
-    "static/js/main.acd0842d.chunk.js"
+    "static/js/2.3aa80256.chunk.js",
+    "static/css/main.fd3d85df.chunk.css",
+    "static/js/main.c333b36e.chunk.js"
   ]
 }
